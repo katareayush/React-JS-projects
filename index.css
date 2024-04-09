@@ -1,0 +1,16 @@
+body{
+    padding: 0px;
+    margin-top: 30px;
+    font-family: 'lucida calligraphy', sans-serif;
+    background-color: tan;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+    font-weight: 900;
+    font-size: 2rem;
+    display: flex;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}

@@ -1,16 +1,26 @@
 body{
     padding: 0px;
     margin-top: 30px;
-    font-family: 'lucida calligraphy', sans-serif;
-    background-color: tan;
+    font-family: 'Times New roman', sans-serif;
+    background-color: beige;
 }
 
 a{
     text-decoration: none;
-    color: brown;
-    font-weight: 900;
+    color: rgb(60, 23, 23);
+    font-weight: bolder;
     font-size: 2rem;
     display: flex;
     margin-bottom: 40px;
     margin-left: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(60, 23, 23);
+    margin-bottom: 40px;
+    font-weight: 900;
+
+
 }
